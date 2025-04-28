@@ -1,0 +1,7 @@
+public class githubtest2
+{
+      public static void main (String []args ) 
+       {
+         System.out.println("Github demo project");
+       }
+}  Hopw you enjoy
